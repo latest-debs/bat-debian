@@ -1,0 +1,8 @@
+# Package definition for bat
+
+package_name: bat
+github_repo: sharkdp/bat
+artifact_format: tar.gz
+description: "A cat(1) clone with wings"
+
+# Build for all Debian suites and all supported architectures.
