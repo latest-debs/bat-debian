@@ -2,6 +2,7 @@
 
 package_name: bat
 github_repo: sharkdp/bat
+license: Apache-2.0
 artifact_format: tar.gz
 description: "A cat(1) clone with wings"
 
